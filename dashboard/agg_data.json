@@ -1,0 +1,138 @@
+{
+  "overall": {
+    "sessions": 80000,
+    "viewed": 43916,
+    "carts": 8397,
+    "checkouts": 4397,
+    "purchases": 3381,
+    "view_pct": 54.9,
+    "cart_pct": 10.5,
+    "checkout_pct": 5.5,
+    "purchase_pct": 4.2,
+    "revenue": 10254529
+  },
+  "byDevice": [
+    {
+      "k": "Desktop",
+      "sessions": 26488,
+      "purchases": 1529,
+      "conv_pct": 5.77,
+      "aov": 3114
+    },
+    {
+      "k": "Tablet",
+      "sessions": 25840,
+      "purchases": 1089,
+      "conv_pct": 4.21,
+      "aov": 3100
+    },
+    {
+      "k": "Mobile",
+      "sessions": 27672,
+      "purchases": 763,
+      "conv_pct": 2.76,
+      "aov": 2774
+    }
+  ],
+  "bySource": [
+    {
+      "k": "Social",
+      "sessions": 16927,
+      "purchases": 253,
+      "conv_pct": 1.49,
+      "aov": 2805
+    },
+    {
+      "k": "Organic Search",
+      "sessions": 16057,
+      "purchases": 654,
+      "conv_pct": 4.07,
+      "aov": 3505
+    },
+    {
+      "k": "Paid Search",
+      "sessions": 15879,
+      "purchases": 329,
+      "conv_pct": 2.07,
+      "aov": 2813
+    },
+    {
+      "k": "Email",
+      "sessions": 15575,
+      "purchases": 1053,
+      "conv_pct": 6.76,
+      "aov": 2909
+    },
+    {
+      "k": "Direct",
+      "sessions": 15562,
+      "purchases": 1092,
+      "conv_pct": 7.02,
+      "aov": 2988
+    }
+  ],
+  "cartDrop": [
+    {
+      "k": "Tablet",
+      "carts": 2679,
+      "checkouts": 1196,
+      "purchases": 1089,
+      "cart_to_checkout_drop": 55.4,
+      "checkout_to_buy_drop": 8.9
+    },
+    {
+      "k": "Mobile",
+      "carts": 2222,
+      "checkouts": 1129,
+      "purchases": 763,
+      "cart_to_checkout_drop": 49.2,
+      "checkout_to_buy_drop": 32.4
+    },
+    {
+      "k": "Desktop",
+      "carts": 3496,
+      "checkouts": 2072,
+      "purchases": 1529,
+      "cart_to_checkout_drop": 40.7,
+      "checkout_to_buy_drop": 26.2
+    }
+  ],
+  "stageBySource": [
+    {
+      "k": "Direct",
+      "viewed": 10101,
+      "carts": 2609,
+      "checkouts": 1272,
+      "purchases": 1092
+    },
+    {
+      "k": "Email",
+      "viewed": 9591,
+      "carts": 2108,
+      "checkouts": 1412,
+      "purchases": 1053
+    },
+    {
+      "k": "Organic Search",
+      "viewed": 8651,
+      "carts": 1497,
+      "checkouts": 799,
+      "purchases": 654
+    },
+    {
+      "k": "Paid Search",
+      "viewed": 7931,
+      "carts": 1098,
+      "checkouts": 554,
+      "purchases": 329
+    },
+    {
+      "k": "Social",
+      "viewed": 7642,
+      "carts": 1085,
+      "checkouts": 360,
+      "purchases": 253
+    }
+  ],
+  "revenue": 10254529
+}
