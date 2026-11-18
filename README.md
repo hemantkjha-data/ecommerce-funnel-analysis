@@ -1,3 +1,5 @@
+**Live Dashboard:** https://hemantkjha-data.github.io/ecommerce-funnel-analysis/dashboard/
+
 # 🛒 E-Commerce Funnel Analysis (SQL · Conversion · Dashboard)
 
 **Business question:** *Where do 80,000 shopping sessions leak in the funnel, and which device or traffic source deserves the fix first?*
